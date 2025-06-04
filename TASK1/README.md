@@ -3,12 +3,12 @@
 This folder contains an interactive Sales Dashboard built using Power BI, designed to provide a comprehensive visual overview of a company's sales performance across various dimensions such as region, category, shipping method, and more.
 
  🔍 Features
-Total Sales, Orders, Profit & Ship Days summary
-Sales breakdown by:
-   Region (East, Central, West, South)
-   Payment Mode (Cards, Online, COD)
-   Customer Segment (Home Office, Consumer, Corporate)
-   Category & Subcategory (Office Supplies, Technology, Furniture)
+     Total Sales, Orders, Profit & Ship Days summary
+     Sales breakdown by:
+         Region (East, Central, West, South)
+         Payment Mode (Cards, Online, COD)
+         Customer Segment (Home Office, Consumer, Corporate)
+         Category & Subcategory (Office Supplies, Technology, Furniture)
    
    Monthly Trends for:
       Sales over time
