@@ -25,6 +25,7 @@ It helps HR professionals and managers track key employee metrics, uncover trend
  🔍 Drillthrough Capabilities:
 
      Click on any department, recruitment source, or demographic to view employee-level detail
+     
      Filtered drill views showing:
        1.Employee ID, position, salary
        2.Status (active, terminated, etc.)
