@@ -13,12 +13,12 @@ This interactive Power BI dashboard combines Excel and SQL Server data sources t
    This demonstrates real-world multi-source data modeling in Power BI.
 
  🔥 Key Metrics
- Total Revenue**: 817.86K
- Average Order Value**: $38.31
- Total Pizzas Sold**: 49,574
- Orders**: 21,350
- Avg Pizzas Per Order**: 2.32
- Average Unit Price**: $16.49
+      Total Revenue: 817.86K
+      Average Order Value: $38.31
+      Total Pizzas Sold: 49,574
+      Orders: 21,350
+      Avg Pizzas Per Order: 2.32
+      Average Unit Price: $16.49
 
 📈 Visual Insights
 
@@ -28,7 +28,7 @@ This interactive Power BI dashboard combines Excel and SQL Server data sources t
   🍕 Sales by Pizza Category & Size
   Breakdown by Classic, Supreme, Veggie, Chicken — plus size preference.
 
-  👑 Top Sellers*
+  👑 Top Sellers
   See which categories and sizes dominate the menu.
 
   🎛️ Interactive Slicers
